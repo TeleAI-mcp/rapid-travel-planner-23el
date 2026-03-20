@@ -1,2 +1,3 @@
-# rapid-travel-planner-23el
+# Rapid Travel Planner 23El
+
 A travel planning application for modern development workflows.
